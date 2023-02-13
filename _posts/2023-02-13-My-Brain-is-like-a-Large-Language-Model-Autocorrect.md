@@ -1,6 +1,6 @@
 ---
 title: "Why I think my brain is like an autocorrect. Like a large language model."
-date: 2023-02-14
+date: 2023-02-13
 ---
 
 That fine day 3 years ago, I looked at my phone, the autocorrect keyboard, and realised how clunky it was, just like my essay writing skills.

@@ -1,4 +1,4 @@
 ---
-title: Burst posts and blogs
+title: Projects
 ---
 

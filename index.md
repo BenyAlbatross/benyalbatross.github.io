@@ -1,5 +1,4 @@
 ---
 title: Projects
-footer: test
 ---
 
